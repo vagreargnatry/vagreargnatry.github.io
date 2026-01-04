@@ -1,0 +1,3 @@
+# Hikari's Blog
+
+WIP
